@@ -91,6 +91,17 @@ Important rules:
 5. DIRECT = YES only when the source explicitly discusses the
    claimed event/action and relevant details.
 6. Do not use outside knowledge.
+7. Pay attention to publication dates.
+8. When evidence reports different values at different times,
+    determine whether the difference can be explained by the event
+    changing over time.
+9. Prefer newer reliable evidence when the claim refers to a
+    changing real-time quantity such as a medal tally, stock price,
+    weather, score, or election count.
+10. Do not treat an older value as a contradiction if a newer
+    reliable source reports an updated value.
+11. If newer and older evidence describe different points in time,
+    explain the time difference briefly.
 
 Return EXACTLY:
 
